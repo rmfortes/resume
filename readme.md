@@ -1,5 +1,3 @@
-# Rebecca's Resume NPm 
-
 # How to Install
 Fork and Clone this repository.
 
@@ -16,4 +14,5 @@ In your terminal, run the following from your command line: node index.js
 Behold! 
 
 # What am I? 
-I am a novelty resume that can be installed into your own computer via the command line interface. 
+
+I am a resume that can be installed into your own computer via the command line interface. 
