@@ -6,18 +6,34 @@
     "email": "rebeccamfortes@gmail.com",
     "resume": "https://rmfortes.github.io/assets/resume.pdf",
     "proficientTechnologies": [
-        "Microsoft Paint",
-        "The calculator app",
-        "Spotify"
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "JS Node", 
+        "MongoDB",
+        "PostgreSQL", 
+        "MySQL",
+        "Django",
+        "Express JS",
+        "Mongoose",
+        "Agile/Scrum",
+        "Git/GitHub",
+        "Heroku"
     ],
     "otherSkills": [
-        "reading", 
-        "hiking"
+        "Native fluency in Spanish",
+        "Public speaking",
+        "Research"
     ],
-    "pets": [
-        "a dog named Grommet"
+    "experience": [
+        "Operator, Dynasty.com / April 2019-Present",
+        "Bookseller and Events Host, Nicola's Books / March 2018-April 2019",
+        "AmeriCorps Member, City Year Orlando / July 2014-June 2015"
     ],
-    "memberships": [
-        "frequent cryer's club"
+    "education": [
+        "General Assembly Software Engineering Immersive, May 2020",
+        "University of Michigan, MFA - Creative Writing, May 2017", 
+        "University of Central Florida, Bachelor of Arts - English, May 2014"
     ]
 }
