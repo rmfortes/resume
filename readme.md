@@ -15,4 +15,4 @@ Behold!
 
 # What am I? 
 
-I am a resume that can be installed into your own computer via the command line interface. 
+I am a resume built using js node. I can be installed into your own computer via the command line interface. 
